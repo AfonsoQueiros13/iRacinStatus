@@ -21,4 +21,4 @@ pip install -r requirements.txt
 # Step 4
 ## Run iracingStatus.py
 
-python3 iracingStatus.py
+python iracingStatus.py
