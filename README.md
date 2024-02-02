@@ -1,7 +1,7 @@
 # iRacingStatus
 Python Script to check every 30s iRacing Server Status
 
-
+All comands via command line on Windows (cmd)
 # Step 1
 ## Download Python3 to Windows:
 https://phoenixnap.com/kb/how-to-install-python-3-windows
